@@ -15,7 +15,7 @@
 
 - A fresh Computer Science and Engineering graduate
 - Playing video games in my spare time
-- Likes to cook and try new recipes
+- Codes stuff, mainly in C++
 
 
 <br>
