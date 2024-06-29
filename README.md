@@ -9,7 +9,6 @@
 - A fresh Computer Science and Engineering graduate
 - Playing video games in my spare time
 - Love working on web apps, frontend and backend
-- Code stuff, mainly in C++
 
 
 
